@@ -1,0 +1,54 @@
+# Entornos virtuales de Python
+venv/
+*.venv
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de compilación y distribución
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Archivos de TensorFlow y Keras
+*.pb
+*.pbtxt
+*.index
+*.data-00000-of-00001
+saved_model/
+checkpoints/
+logs/
+
+# Archivos de salida (si no se quieren versionar)
+output/
+# Si 'input/' contiene datos muy grandes o que no deben versionarse, descomentar:
+# input/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias descargadas localmente (si se manejan de otra forma)
+# deps/
+
+# Logs de la aplicación
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints 
+
+# Repositorio clonado de coolmunzi (solo ignorar su historial .git)
+face_mask_detector/.git/ 
