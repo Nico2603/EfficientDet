@@ -54,3 +54,6 @@ Thumbs.db
 face_mask_detector/.git/ 
 graphify-out/
 
+
+.graphify/
+
