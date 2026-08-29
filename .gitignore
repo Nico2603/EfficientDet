@@ -52,3 +52,5 @@ Thumbs.db
 
 # Repositorio clonado de coolmunzi (solo ignorar su historial .git)
 face_mask_detector/.git/ 
+graphify-out/
+
